@@ -1,3 +1,7 @@
 log2
 
+log2+2<<<<<<< HEAD
 log2+2
+=======
+log2 +1
+>>>>>>> origin/master
